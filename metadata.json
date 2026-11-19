@@ -1,0 +1,6 @@
+{
+  "name": "طلب الفلوس",
+  "description": "تطبيق طلب الفلوس لطلب الفولورز المغربي بحد أقصى 200 متابع يومياً بأمان تام وبدون معلومات بنكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
